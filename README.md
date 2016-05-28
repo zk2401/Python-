@@ -1,0 +1,3 @@
+# learnpy
+PythonNotes
+coding...
